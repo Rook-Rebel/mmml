@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local tool settings
+.claude/
+
+# Downloaded model (python tools/download_hand_model.py)
+models/
+
+# Screenshots / exports
+*.vtk
+*.stl
+*.ply
+mathvision3d.png
